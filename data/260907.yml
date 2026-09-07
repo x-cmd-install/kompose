@@ -5,18 +5,18 @@ about:
   head: c2dd961
   archived: false
   latestVersion: "v1.38.0"
-  collectedAt: 2026-09-07T06:07:03Z
+  collectedAt: 2026-09-07T18:20:08Z
 timeline:
   created: 2016-06-27
   lastCommit: 2026-06-15
   lastRelease: 2026-01-15
 popularity:
-  star: 10620
+  star: 10621
   watcher: 129
   fork: 815
   release: 54
   contributor: 714
-  pullRequest: 1279
+  pullRequest: 1280
   issue: 841
 language:
   Go: 475001
@@ -82,7 +82,7 @@ total:
   commit: 1810
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kompose
-collectedAt: 2026-09-07T06:07:09Z
+collectedAt: 2026-09-07T18:20:11Z
 loc:
   Json:
     code: 29471
@@ -269,7 +269,7 @@ checks:
       - 'Info:   2 out of   2 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T06:07:10+00:00
+  collectedAt: 2026-09-07T18:20:12+00:00
   platform:
     darwin/arm64:
       name:  kompose-darwin-arm64.tar.gz
