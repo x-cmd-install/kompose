@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.38.0"
   latestRelease: "v1.38.0"
   latestPrerelease: "v0.0.1-beta.2"
-  collectedAt: 2026-09-10T21:46:18Z
+  collectedAt: 2026-09-10T22:16:10Z
 timeline:
   created: 2016-06-27
   lastCommit: 2026-06-15
@@ -86,7 +86,7 @@ total:
   commit: 1810
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kompose
-collectedAt: 2026-09-10T21:46:22Z
+collectedAt: 2026-09-10T22:16:14Z
 loc:
   Json:
     code: 29471
