@@ -12,6 +12,28 @@ Convert Compose to Kubernetes
 x install kompose
 ```
 
+## 代码规模
+
+合计: **68,153** 行代码（覆盖前 5 种语言、共 **419** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 29,471 | 0 | 0 | 122 |
+| Go | 17,942 | 3,364 | 2,055 | 69 |
+| Yaml | 9,021 | 218 | 526 | 216 |
+| Css | 6,649 | 200 | 1,291 | 10 |
+| Svg | 2,242 | 3 | 0 | 2 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **4.8 / 10**
+
+评分最低的几项:
+
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/kubernetes/kompose>
@@ -37,30 +59,11 @@ x install kompose
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 11 | 0 | 2 | 0 |
 | 90d | 2026-06-12 | 0 | 1 | 11 | 0 | 2 | 1 |
+| last180d | 2026-03-14 | 0 | 1 | 13 | 0 | 3 | 1 |
 | 360d | 2025-09-15 | 1 | 14 | 13 | 1 | 5 | 15 |
-
-## 代码规模
-
-合计: **68,153** 行代码（覆盖前 5 种语言、共 **419** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Json | 29,471 | 0 | 0 | 122 |
-| Go | 17,942 | 3,364 | 2,055 | 69 |
-| Yaml | 9,021 | 218 | 526 | 216 |
-| Css | 6,649 | 200 | 1,291 | 10 |
-| Svg | 2,242 | 3 | 0 | 2 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.8 / 10**
-
-评分最低的几项:
-
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| last720d | 2024-09-20 | 4 | 41 | 13 | 30 | 5 | 87 |
 
 ## Release 资产
 
@@ -80,6 +83,19 @@ x install kompose
 | [kompose-windows-amd64.exe.tar.gz](https://github.com/kubernetes/kompose/releases/download/v1.38.0/kompose-windows-amd64.exe.tar.gz) | 8.5 MiB | `native/win/x64` |
 | [SHA256_SUM](https://github.com/kubernetes/kompose/releases/download/v1.38.0/SHA256_SUM) | 1.1 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kompose) 上共有 **50** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.38.0` | ✅ latest |
+| Homebrew | `1.38.0` | ✅ latest |
+| Nix unstable | `1.38.0` | ✅ latest |
+| Void | `1.38.0` | ✅ latest |
+| Alpine edge | `1.31.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.38.0` | ✅ latest |
+
 ## 改进这些数据
 
 kompose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kompose` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +105,4 @@ kompose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T18:29:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:46:28Z._
