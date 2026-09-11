@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.38.0"
   latestRelease: "v1.38.0"
   latestPrerelease: "v0.0.1-beta.2"
-  collectedAt: 2026-09-11T06:11:21Z
+  collectedAt: 2026-09-11T18:34:16Z
 timeline:
   created: 2016-06-27
   lastCommit: 2026-06-15
@@ -17,9 +17,9 @@ timeline:
 popularity:
   star: 10623
   watcher: 128
-  fork: 815
+  fork: 816
   release: 54
-  contributor: 714
+  contributor: 715
   pullRequest: 1280
   issue: 841
 language:
@@ -86,7 +86,7 @@ total:
   commit: 1810
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kompose
-collectedAt: 2026-09-11T06:11:24Z
+collectedAt: 2026-09-11T18:34:19Z
 loc:
   Json:
     code: 29471
