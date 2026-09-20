@@ -4,7 +4,7 @@
 
 Convert Compose to Kubernetes
 
-![kompose](https://repo.x-cmd.io/kompose.svg)
+[![x-cmd/install — kompose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kompose.svg)](https://x-cmd.com/install/kompose)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install kompose
 
 ## Code insight
 
-Total: **68,153** lines of code across **419** files in the top 5 languages.
+Total: **68,381** lines of code across **419** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 29,471 | 0 | 0 | 122 |
-| Go | 17,942 | 3,364 | 2,055 | 69 |
+| Go | 18,170 | 3,390 | 2,078 | 69 |
 | Yaml | 9,021 | 218 | 526 | 216 |
 | Css | 6,649 | 200 | 1,291 | 10 |
 | Svg | 2,242 | 3 | 0 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.38.0` (2026-01-15)
-- **Last commit**: 2026-06-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 10,623 · **Forks**: 817 · **Open issues**: 841 · **Contributors**: 715
+- **Stars**: 10,625 · **Forks**: 818 · **Open issues**: 841 · **Contributors**: 717
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 972 · **Open PRs**: 14 · **Closed issues**: 834 · **Open issues**: 7 · **Commits**: 1810
+- **Releases**: 54 · **Merged PRs**: 974 · **Open PRs**: 12 · **Closed issues**: 835 · **Open issues**: 6 · **Commits**: 1813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 12 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 12 | 0 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 1 | 14 | 0 | 3 | 1 |
-| 360d | 2025-09-23 | 1 | 13 | 14 | 1 | 5 | 15 |
-| last720d | 2024-09-28 | 4 | 40 | 14 | 28 | 5 | 84 |
+| 30d | 2026-08-21 | 0 | 1 | 12 | 0 | 1 | 2 |
+| last60d | 2026-07-22 | 0 | 1 | 12 | 0 | 2 | 2 |
+| 90d | 2026-06-22 | 0 | 1 | 12 | 0 | 2 | 2 |
+| last180d | 2026-03-24 | 0 | 3 | 12 | 0 | 3 | 3 |
+| 360d | 2025-09-25 | 1 | 15 | 12 | 2 | 4 | 17 |
+| last720d | 2024-09-30 | 4 | 42 | 12 | 29 | 4 | 87 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:33:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:24:34Z._
