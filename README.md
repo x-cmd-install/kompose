@@ -14,13 +14,13 @@ x install kompose
 
 ## Code insight
 
-Total: **68,381** lines of code across **419** files in the top 5 languages.
+Total: **68,662** lines of code across **422** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 29,471 | 0 | 0 | 122 |
-| Go | 18,170 | 3,390 | 2,078 | 69 |
-| Yaml | 9,021 | 218 | 526 | 216 |
+| Go | 18,228 | 3,393 | 2,086 | 69 |
+| Yaml | 9,236 | 218 | 537 | 219 |
 | Css | 6,649 | 200 | 1,291 | 10 |
 | Svg | 2,242 | 3 | 0 | 2 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.38.0` (2026-01-15)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-30
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 10,630 · **Forks**: 820 · **Open issues**: 841 · **Contributors**: 723
+- **Stars**: 10,630 · **Forks**: 820 · **Open issues**: 841 · **Contributors**: 724
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 974 · **Open PRs**: 15 · **Closed issues**: 835 · **Open issues**: 6 · **Commits**: 1813
+- **Releases**: 54 · **Merged PRs**: 977 · **Open PRs**: 13 · **Closed issues**: 838 · **Open issues**: 3 · **Commits**: 1818
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 1 | 8 | 0 | 0 | 2 |
-| last60d | 2026-08-01 | 0 | 1 | 15 | 0 | 1 | 2 |
-| 90d | 2026-07-02 | 0 | 1 | 15 | 0 | 2 | 2 |
-| last180d | 2026-04-03 | 0 | 3 | 15 | 0 | 2 | 3 |
-| 360d | 2025-10-05 | 1 | 15 | 15 | 2 | 4 | 17 |
-| last720d | 2024-10-10 | 4 | 42 | 15 | 29 | 4 | 85 |
+| 30d | 2026-09-01 | 0 | 4 | 6 | 0 | 0 | 6 |
+| last60d | 2026-08-02 | 0 | 4 | 13 | 1 | 0 | 6 |
+| 90d | 2026-07-03 | 0 | 4 | 13 | 2 | 0 | 6 |
+| last180d | 2026-04-04 | 0 | 6 | 13 | 2 | 0 | 7 |
+| 360d | 2025-10-06 | 1 | 18 | 13 | 4 | 2 | 21 |
+| last720d | 2024-10-11 | 4 | 45 | 13 | 31 | 2 | 90 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:51:54Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:18:34Z._
