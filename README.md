@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 4 | 6 | 0 | 0 | 6 |
-| last60d | 2026-08-07 | 0 | 4 | 13 | 1 | 0 | 6 |
-| 90d | 2026-07-08 | 0 | 4 | 13 | 2 | 0 | 6 |
-| last180d | 2026-04-09 | 0 | 6 | 13 | 2 | 0 | 7 |
-| 360d | 2025-10-11 | 1 | 18 | 13 | 4 | 2 | 21 |
-| last720d | 2024-10-16 | 4 | 45 | 13 | 31 | 2 | 90 |
+| 30d | 2026-09-07 | 0 | 4 | 6 | 0 | 0 | 6 |
+| last60d | 2026-08-08 | 0 | 4 | 13 | 1 | 0 | 6 |
+| 90d | 2026-07-09 | 0 | 4 | 13 | 2 | 0 | 6 |
+| last180d | 2026-04-10 | 0 | 6 | 13 | 2 | 0 | 7 |
+| 360d | 2025-10-12 | 1 | 18 | 13 | 4 | 2 | 21 |
+| last720d | 2024-10-17 | 4 | 45 | 13 | 31 | 2 | 90 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:43:56Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:21:38Z._
