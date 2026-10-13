@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,637 · **Forks**: 819 · **Open issues**: 841 · **Contributors**: 728
+- **Stars**: 10,638 · **Forks**: 819 · **Open issues**: 841 · **Contributors**: 729
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 4 | 6 | 0 | 0 | 5 |
-| last60d | 2026-08-13 | 0 | 4 | 11 | 1 | 0 | 6 |
-| 90d | 2026-07-14 | 0 | 4 | 11 | 2 | 0 | 6 |
-| last180d | 2026-04-15 | 0 | 6 | 11 | 2 | 0 | 7 |
-| 360d | 2025-10-17 | 1 | 18 | 11 | 4 | 2 | 21 |
-| last720d | 2024-10-22 | 4 | 45 | 11 | 31 | 2 | 90 |
+| 30d | 2026-09-13 | 0 | 4 | 6 | 0 | 0 | 5 |
+| last60d | 2026-08-14 | 0 | 4 | 11 | 1 | 0 | 6 |
+| 90d | 2026-07-15 | 0 | 4 | 11 | 2 | 0 | 6 |
+| last180d | 2026-04-16 | 0 | 6 | 11 | 2 | 0 | 7 |
+| 360d | 2025-10-18 | 1 | 18 | 11 | 4 | 2 | 21 |
+| last720d | 2024-10-23 | 4 | 45 | 11 | 31 | 2 | 90 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:20:47Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:21:27Z._
