@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,643 · **Forks**: 817 · **Open issues**: 842 · **Contributors**: 738
+- **Stars**: 10,642 · **Forks**: 817 · **Open issues**: 842 · **Contributors**: 738
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 4 | 11 | 0 | 1 | 6 |
-| 90d | 2026-08-03 | 0 | 4 | 15 | 1 | 1 | 6 |
-| last180d | 2026-05-05 | 0 | 5 | 15 | 2 | 1 | 7 |
-| 360d | 2025-11-06 | 1 | 17 | 15 | 5 | 2 | 20 |
-| last720d | 2024-11-11 | 4 | 36 | 15 | 27 | 2 | 76 |
+| 30d | 2026-10-03 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last60d | 2026-09-03 | 0 | 4 | 11 | 0 | 1 | 6 |
+| 90d | 2026-08-04 | 0 | 4 | 15 | 1 | 1 | 6 |
+| last180d | 2026-05-06 | 0 | 5 | 15 | 2 | 1 | 7 |
+| 360d | 2025-11-07 | 1 | 17 | 15 | 5 | 2 | 20 |
+| last720d | 2024-11-12 | 4 | 36 | 15 | 27 | 2 | 76 |
 
 ## Release assets
 
@@ -85,12 +85,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/kompose). **17** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **50** distros on [repology.org](https://repology.org/project/kompose). **15** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.38.0` | ✅ latest |
-| Homebrew | `1.38.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.38.0` | ✅ latest |
 | Void | `1.38.0` | ✅ latest |
 | Alpine edge | `1.31.2` | ⚠️ outdated |
@@ -105,4 +105,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:19:38Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:32:34Z._

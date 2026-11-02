@@ -48,7 +48,7 @@ x install kompose
 
 ## 流行度
 
-- **Star**: 10,643 · **Fork**: 817 · **开放 issue**: 842 · **贡献者**: 738
+- **Star**: 10,642 · **Fork**: 817 · **开放 issue**: 842 · **贡献者**: 738
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install kompose
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 4 | 11 | 0 | 1 | 6 |
-| 90d | 2026-08-03 | 0 | 4 | 15 | 1 | 1 | 6 |
-| last180d | 2026-05-05 | 0 | 5 | 15 | 2 | 1 | 7 |
-| 360d | 2025-11-06 | 1 | 17 | 15 | 5 | 2 | 20 |
-| last720d | 2024-11-11 | 4 | 36 | 15 | 27 | 2 | 76 |
+| 30d | 2026-10-03 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last60d | 2026-09-03 | 0 | 4 | 11 | 0 | 1 | 6 |
+| 90d | 2026-08-04 | 0 | 4 | 15 | 1 | 1 | 6 |
+| last180d | 2026-05-06 | 0 | 5 | 15 | 2 | 1 | 7 |
+| 360d | 2025-11-07 | 1 | 17 | 15 | 5 | 2 | 20 |
+| last720d | 2024-11-12 | 4 | 36 | 15 | 27 | 2 | 76 |
 
 ## Release 资产
 
@@ -85,12 +85,12 @@ x install kompose
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kompose) 上共有 **50** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kompose) 上共有 **50** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.38.0` | ✅ latest |
-| Homebrew | `1.38.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.38.0` | ✅ latest |
 | Void | `1.38.0` | ✅ latest |
 | Alpine edge | `1.31.2` | ⚠️ outdated |
@@ -105,4 +105,4 @@ kompose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T07:19:39Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T07:32:35Z._
