@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,642 · **Forks**: 817 · **Open issues**: 842 · **Contributors**: 744
+- **Stars**: 10,643 · **Forks**: 818 · **Open issues**: 842 · **Contributors**: 744
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 977 · **Open PRs**: 15 · **Closed issues**: 839 · **Open issues**: 3 · **Commits**: 1818
+- **Releases**: 54 · **Merged PRs**: 977 · **Open PRs**: 16 · **Closed issues**: 839 · **Open issues**: 3 · **Commits**: 1818
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last60d | 2026-09-07 | 0 | 4 | 11 | 0 | 1 | 6 |
-| 90d | 2026-08-08 | 0 | 4 | 15 | 1 | 1 | 6 |
-| last180d | 2026-05-10 | 0 | 5 | 15 | 2 | 1 | 7 |
-| 360d | 2025-11-11 | 1 | 17 | 15 | 5 | 2 | 20 |
-| last720d | 2024-11-16 | 4 | 36 | 15 | 26 | 2 | 71 |
+| 30d | 2026-10-08 | 0 | 0 | 8 | 0 | 1 | 0 |
+| last60d | 2026-09-08 | 0 | 4 | 12 | 0 | 1 | 6 |
+| 90d | 2026-08-09 | 0 | 4 | 16 | 1 | 1 | 6 |
+| last180d | 2026-05-11 | 0 | 5 | 16 | 2 | 1 | 7 |
+| 360d | 2025-11-12 | 1 | 17 | 16 | 5 | 2 | 20 |
+| last720d | 2024-11-17 | 4 | 36 | 16 | 26 | 2 | 71 |
 
 ## Release assets
 
@@ -85,12 +85,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/kompose). **15** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/kompose). **17** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.38.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.38.0` | ✅ latest |
 | Nix unstable | `1.38.0` | ✅ latest |
 | Void | `1.38.0` | ✅ latest |
 | Alpine edge | `1.31.2` | ⚠️ outdated |
@@ -105,4 +105,4 @@ Install metadata for kompose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:03:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:19:01Z._
