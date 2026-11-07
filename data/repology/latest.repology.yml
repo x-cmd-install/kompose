@@ -1,25 +1,49 @@
-- repo: homebrew
+- repo: manjaro_testing
+  subrepo: extra
   srcname: kompose
+  binname: kompose
   visiblename: kompose
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Tool to move from `docker-compose` to Kubernetes
+  version: 1.38.0
+  origversion: 1.38.0-1
+  status: newest
+  summary: Docker compose to Kubernetes transformation tool
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kompose
+  binname: kompose
+  visiblename: kompose
+  version: 1.38.0
+  origversion: 1.38.0-1
+  status: newest
+  summary: Docker compose to Kubernetes transformation tool
+  licenses:
+    - Apache-2.0
 - repo: wakemeops
   subrepo: devops
   binname: kompose
   visiblename: kompose
-  version: 1.38.0
-  origversion: 1.38.0-1~ops2deb
-  status: newest
+  version: 1.30.0
+  origversion: 1.30.0-1~ops2deb
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: kompose
   visiblename: kompose
-  version: 1.37.0
-  origversion: 1.37.0-1~ops2deb
+  version: 1.29.0
+  origversion: 1.29.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.28.0
+  origversion: 1.28.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -156,6 +180,13 @@
   origversion: null
   status: newest
   summary: Tool to move from `docker-compose` to Kubernetes
+- repo: homebrew
+  srcname: kompose
+  visiblename: kompose
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tool to move from `docker-compose` to Kubernetes
 - repo: liguros_stable
   srcname: app-containers/kompose
   visiblename: app-containers/kompose
@@ -228,28 +259,6 @@
   srcname: kompose
   binname: kompose
   visiblename: kompose
-  version: 1.28.0
-  origversion: 1.28.0-1
-  status: outdated
-  summary: Docker compose to Kubernetes transformation tool
-  licenses:
-    - Apache
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kompose
-  binname: kompose
-  visiblename: kompose
-  version: 1.28.0
-  origversion: 1.28.0-1
-  status: outdated
-  summary: Docker compose to Kubernetes transformation tool
-  licenses:
-    - Apache
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kompose
-  binname: kompose
-  visiblename: kompose
   version: 1.38.0
   origversion: 1.38.0-1
   status: newest
@@ -304,6 +313,15 @@
     - vincent@sbr.pm
   licenses:
     - Apache-2.0
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.35.0
+  origversion: 1.35.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: kompose
   visiblename: kompose
@@ -328,17 +346,6 @@
     - vincent@sbr.pm
   licenses:
     - Apache-2.0
-- repo: openpkg_current
-  srcname: kompose
-  visiblename: kompose
-  version: 1.36.0.20250516
-  origversion: null
-  status: outdated
-  summary: Docker-Compose to Kubernetes Conversion Tool
-  licenses:
-    - Apache
-  categories:
-    - Web
 - repo: opensuse_leap_15_5
   subrepo: main/oss
   srcname: kompose
@@ -463,8 +470,17 @@
   subrepo: devops
   binname: kompose
   visiblename: kompose
-  version: 1.36.0
-  origversion: 1.36.0-1~ops2deb
+  version: 1.38.0
+  origversion: 1.38.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.37.0
+  origversion: 1.37.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -472,8 +488,8 @@
   subrepo: devops
   binname: kompose
   visiblename: kompose
-  version: 1.35.0
-  origversion: 1.35.0-1~ops2deb
+  version: 1.36.0
+  origversion: 1.36.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -528,33 +544,6 @@
   visiblename: kompose
   version: 1.31.0
   origversion: 1.31.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.30.0
-  origversion: 1.30.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.29.0
-  origversion: 1.29.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.28.0
-  origversion: 1.28.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
