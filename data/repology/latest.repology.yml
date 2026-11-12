@@ -1,14 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kompose
-  binname: kompose
-  visiblename: kompose
-  version: 1.38.0
-  origversion: 1.38.0-1
-  status: newest
-  summary: Docker compose to Kubernetes transformation tool
-  licenses:
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: kompose
@@ -20,33 +9,6 @@
   summary: Docker compose to Kubernetes transformation tool
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.30.0
-  origversion: 1.30.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.29.0
-  origversion: 1.29.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.28.0
-  origversion: 1.28.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: kompose
@@ -97,6 +59,15 @@
   summary: Zsh completions for kompose
   maintainers:
     - alpine@jjtc.eu
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: kompose
+  visiblename: kompose
+  version: 1.38.0
+  origversion: null
+  status: newest
   licenses:
     - Apache-2.0
 - repo: arch
@@ -265,6 +236,17 @@
   summary: Docker compose to Kubernetes transformation tool
   licenses:
     - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kompose
+  binname: kompose
+  visiblename: kompose
+  version: 1.38.0
+  origversion: 1.38.0-1
+  status: newest
+  summary: Docker compose to Kubernetes transformation tool
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: kompose
   visiblename: kompose
@@ -313,15 +295,6 @@
     - vincent@sbr.pm
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: kompose
-  visiblename: kompose
-  version: 1.35.0
-  origversion: 1.35.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: kompose
   visiblename: kompose
@@ -406,8 +379,8 @@
   binnames:
     - kompose
   visiblename: kompose
-  version: 14.1.6
-  origversion: 14.1.6-1
+  version: 14.1.7
+  origversion: 14.1.7-1
   status: untrusted
   summary: Full-Screen Task Manager for TDE
   maintainers:
@@ -416,15 +389,6 @@
     - GPLv2
   categories:
     - Graphical desktop/Other
-- repo: scoop
-  subrepo: main
-  binname: kompose
-  visiblename: kompose
-  version: 1.38.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: solus
   srcname: kompose
   binname: kompose
@@ -497,6 +461,15 @@
   subrepo: devops
   binname: kompose
   visiblename: kompose
+  version: 1.35.0
+  origversion: 1.35.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
   version: 1.34.0
   origversion: 1.34.0-1~ops2deb
   status: legacy
@@ -544,6 +517,33 @@
   visiblename: kompose
   version: 1.31.0
   origversion: 1.31.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.30.0
+  origversion: 1.30.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.29.0
+  origversion: 1.29.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kompose
+  visiblename: kompose
+  version: 1.28.0
+  origversion: 1.28.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
